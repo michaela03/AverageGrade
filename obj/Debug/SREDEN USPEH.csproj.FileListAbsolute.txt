@@ -1,0 +1,18 @@
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\bin\Debug\SREDEN USPEH.exe.config
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\bin\Debug\SREDEN USPEH.exe
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\bin\Debug\SREDEN USPEH.pdb
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.csprojResolveAssemblyReference.cache
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN_USPEH.Form1.resources
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN_USPEH.Properties.Resources.resources
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.csproj.GenerateResource.Cache
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.exe
+F:\V.A\programirane\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.pdb
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\bin\Debug\SREDEN USPEH.exe.config
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.exe
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.pdb
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\bin\Debug\SREDEN USPEH.exe
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\bin\Debug\SREDEN USPEH.pdb
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.csprojResolveAssemblyReference.cache
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN_USPEH.Form1.resources
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN_USPEH.Properties.Resources.resources
+C:\Users\Miki\Desktop\SREDEN USPEH\SREDEN USPEH\obj\Debug\SREDEN USPEH.csproj.GenerateResource.Cache
