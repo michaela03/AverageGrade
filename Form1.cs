@@ -19,6 +19,14 @@ namespace SREDEN_USPEH
         }
 
         double BEL, Math, Foreign, Phys, Informatics, Bio;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1.ActiveForm.Hide();
+            Form form2 = new Form();
+            form2.Show();
+        }
+
         List<Student> students = new List<Student>();
 
         private void buttonAverage_Click(object sender, EventArgs e)

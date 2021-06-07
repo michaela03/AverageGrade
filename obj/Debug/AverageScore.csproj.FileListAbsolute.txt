@@ -1,0 +1,10 @@
+C:\project\AverageGrade\bin\Debug\SREDEN USPEH.exe.config
+C:\project\AverageGrade\obj\Debug\SREDEN USPEH.exe
+C:\project\AverageGrade\obj\Debug\SREDEN USPEH.pdb
+C:\project\AverageGrade\bin\Debug\SREDEN USPEH.exe
+C:\project\AverageGrade\bin\Debug\SREDEN USPEH.pdb
+C:\project\AverageGrade\obj\Debug\AverageScore.csprojResolveAssemblyReference.cache
+C:\project\AverageGrade\obj\Debug\SREDEN_USPEH.Form1.resources
+C:\project\AverageGrade\obj\Debug\SREDEN_USPEH.Form2.resources
+C:\project\AverageGrade\obj\Debug\SREDEN_USPEH.Properties.Resources.resources
+C:\project\AverageGrade\obj\Debug\AverageScore.csproj.GenerateResource.Cache

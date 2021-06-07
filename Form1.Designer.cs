@@ -52,6 +52,7 @@
             this.buttonFind = new System.Windows.Forms.Button();
             this.buttonClean = new System.Windows.Forms.Button();
             this.textBoxAverage = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -147,7 +148,7 @@
             // textBoxCLas
             // 
             this.textBoxCLas.Location = new System.Drawing.Point(85, 25);
-            this.textBoxCLas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxCLas.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxCLas.Name = "textBoxCLas";
             this.textBoxCLas.Size = new System.Drawing.Size(65, 22);
             this.textBoxCLas.TabIndex = 9;
@@ -155,7 +156,7 @@
             // textBoxID
             // 
             this.textBoxID.Location = new System.Drawing.Point(237, 25);
-            this.textBoxID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxID.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxID.Name = "textBoxID";
             this.textBoxID.Size = new System.Drawing.Size(67, 22);
             this.textBoxID.TabIndex = 10;
@@ -163,7 +164,7 @@
             // textBoxName
             // 
             this.textBoxName.Location = new System.Drawing.Point(419, 28);
-            this.textBoxName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxName.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.Size = new System.Drawing.Size(255, 22);
             this.textBoxName.TabIndex = 11;
@@ -171,7 +172,7 @@
             // textBoxBEL
             // 
             this.textBoxBEL.Location = new System.Drawing.Point(105, 175);
-            this.textBoxBEL.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxBEL.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxBEL.Name = "textBoxBEL";
             this.textBoxBEL.Size = new System.Drawing.Size(132, 22);
             this.textBoxBEL.TabIndex = 12;
@@ -179,7 +180,7 @@
             // textBoxForeign
             // 
             this.textBoxForeign.Location = new System.Drawing.Point(105, 255);
-            this.textBoxForeign.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxForeign.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxForeign.Name = "textBoxForeign";
             this.textBoxForeign.Size = new System.Drawing.Size(132, 22);
             this.textBoxForeign.TabIndex = 13;
@@ -187,7 +188,7 @@
             // textBoxMath
             // 
             this.textBoxMath.Location = new System.Drawing.Point(345, 175);
-            this.textBoxMath.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxMath.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxMath.Name = "textBoxMath";
             this.textBoxMath.Size = new System.Drawing.Size(119, 22);
             this.textBoxMath.TabIndex = 14;
@@ -195,7 +196,7 @@
             // textBoxInformatics
             // 
             this.textBoxInformatics.Location = new System.Drawing.Point(345, 260);
-            this.textBoxInformatics.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxInformatics.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxInformatics.Name = "textBoxInformatics";
             this.textBoxInformatics.Size = new System.Drawing.Size(119, 22);
             this.textBoxInformatics.TabIndex = 15;
@@ -203,7 +204,7 @@
             // textBoxPhys
             // 
             this.textBoxPhys.Location = new System.Drawing.Point(541, 171);
-            this.textBoxPhys.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxPhys.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxPhys.Name = "textBoxPhys";
             this.textBoxPhys.Size = new System.Drawing.Size(132, 22);
             this.textBoxPhys.TabIndex = 16;
@@ -211,7 +212,7 @@
             // textBoxBio
             // 
             this.textBoxBio.Location = new System.Drawing.Point(541, 260);
-            this.textBoxBio.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxBio.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxBio.Name = "textBoxBio";
             this.textBoxBio.Size = new System.Drawing.Size(132, 22);
             this.textBoxBio.TabIndex = 17;
@@ -229,7 +230,7 @@
             // buttonAverage
             // 
             this.buttonAverage.Location = new System.Drawing.Point(476, 367);
-            this.buttonAverage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonAverage.Margin = new System.Windows.Forms.Padding(4);
             this.buttonAverage.Name = "buttonAverage";
             this.buttonAverage.Size = new System.Drawing.Size(129, 60);
             this.buttonAverage.TabIndex = 19;
@@ -240,7 +241,7 @@
             // buttonSave
             // 
             this.buttonSave.Location = new System.Drawing.Point(76, 473);
-            this.buttonSave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonSave.Margin = new System.Windows.Forms.Padding(4);
             this.buttonSave.Name = "buttonSave";
             this.buttonSave.Size = new System.Drawing.Size(100, 48);
             this.buttonSave.TabIndex = 20;
@@ -251,7 +252,7 @@
             // buttonFind
             // 
             this.buttonFind.Location = new System.Drawing.Point(263, 473);
-            this.buttonFind.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonFind.Margin = new System.Windows.Forms.Padding(4);
             this.buttonFind.Name = "buttonFind";
             this.buttonFind.Size = new System.Drawing.Size(115, 48);
             this.buttonFind.TabIndex = 21;
@@ -262,7 +263,7 @@
             // buttonClean
             // 
             this.buttonClean.Location = new System.Drawing.Point(491, 473);
-            this.buttonClean.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonClean.Margin = new System.Windows.Forms.Padding(4);
             this.buttonClean.Name = "buttonClean";
             this.buttonClean.Size = new System.Drawing.Size(117, 48);
             this.buttonClean.TabIndex = 22;
@@ -273,10 +274,20 @@
             // textBoxAverage
             // 
             this.textBoxAverage.Location = new System.Drawing.Point(277, 367);
-            this.textBoxAverage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBoxAverage.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxAverage.Name = "textBoxAverage";
             this.textBoxAverage.Size = new System.Drawing.Size(99, 22);
             this.textBoxAverage.TabIndex = 23;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(618, 559);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 24;
+            this.button1.Text = "=>";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -284,6 +295,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(705, 594);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.textBoxAverage);
             this.Controls.Add(this.buttonClean);
             this.Controls.Add(this.buttonFind);
@@ -308,7 +320,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -342,6 +354,7 @@
         private System.Windows.Forms.Button buttonFind;
         private System.Windows.Forms.Button buttonClean;
         private System.Windows.Forms.TextBox textBoxAverage;
+        private System.Windows.Forms.Button button1;
     }
 }
 
