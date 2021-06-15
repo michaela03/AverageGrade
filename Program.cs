@@ -17,6 +17,7 @@ namespace SREDEN_USPEH
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            
         }
     }
 }

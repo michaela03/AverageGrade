@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace SREDEN_USPEH
 {
@@ -49,13 +50,31 @@ namespace SREDEN_USPEH
         }
 
         private void buttonSave_Click(object sender, EventArgs e)
-        {
+        {  
             Student student = new Student(textBoxName.Text, int.Parse(textBoxID.Text),
                                             textBoxCLas.Text, double.Parse(textBoxBEL.Text),
                                             double.Parse(textBoxMath.Text),
                                             double.Parse(textBoxForeign.Text), double.Parse(textBoxPhys.Text),
                                             double.Parse(textBoxInformatics.Text), double.Parse(textBoxBio.Text), double.Parse(textBoxAverage.Text));
             students.Add(student);
+            StreamWriter A = new StreamWriter(Application.StartupPath + "\\form\\." + "custdetails.txt");
+            A.WriteLine(label1.Text + " " + textBoxCLas.Text);
+            A.WriteLine(label2.Text + " " + textBoxID.Text);
+            A.WriteLine (label3.Text + " " + textBoxName.Text);
+            A.WriteLine(label4.Text + " " + textBoxBEL.Text);
+            A.WriteLine(label5.Text + " " + textBoxForeign.Text);
+            A.WriteLine(label6.Text + " " + textBoxMath.Text);
+            A.WriteLine(label7.Text + " " + textBoxInformatics.Text);
+            A.WriteLine(label8.Text + " " + textBoxPhys.Text);
+            A.WriteLine(label9.Text + " " + textBoxBio.Text);
+            A.WriteLine(labelAverage.Text + " " + textBoxAverage.Text);
+
+
+            A.Close();
+
+
+
+
         }
 
         private void buttonFind_Click(object sender, EventArgs e)
